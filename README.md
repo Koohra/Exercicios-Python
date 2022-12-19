@@ -5,5 +5,4 @@
 
  No arquivo Ex02.py fiz um exercicio que consegui fazer tratamento de string e utilizei elif.
 
- No arquivo Ex02.py utilizei importação de função da biblioteca "Math" para resolver uma raiz com "sqrt".
- 
+ No arquivo Ex03.py utilizei importação de função da biblioteca "Math" para resolver uma raiz com "sqrt".
